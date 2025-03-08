@@ -13,7 +13,7 @@
 // });
 
 let divya = document.querySelector("#divya");
-
+  
 let crtmode = "light";
 
 divya.addEventListener("click",()=>{
